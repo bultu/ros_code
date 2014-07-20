@@ -1,6 +1,8 @@
 //This program generates randomly generates velocity messages
 // for turtlesim
 
+//Anurag Chowdhury
+
 #include <ros/ros.h>
 #include <geometry_msgs/Twist.h>  //For geometry_msgs :: Twist
 #include <stdlib.h>  // for rand() and RAND_MAX
